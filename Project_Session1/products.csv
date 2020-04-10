@@ -1,0 +1,449 @@
+"Product","Seller","Comp_size","Competitors","RFP","Growth","Source","Client","Strat_deal","Deal_type","Att_t_client","Status","Sales_Opportunity_in_Mio"
+"Product A","Seller 6","Mid","No","Yes","Growth","Referral","Current","Very important","Project","Strategic account","Won",5.25
+"Product B","Seller 8","Big","No","Yes","Stable","Referral","Current","Unimportant","Maintenance","Strategic account","Won",4.2
+"Product F","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",3.15
+"Product B","Seller 8","Big","No","No","Growth","Joint past","Current","Very important","Maintenance","Strategic account","Won",1.05
+"Product C","Seller 1","Small","Unknown","No","Stable","Unknown","New","Average important","Project","Normal","Won",4.2
+"Product B","Seller 20","Big","Unknown","No","Growth","Referral","New","Very important","Project","First deal","Lost",5.25
+"Product B","Seller 1","Mid","Yes","Yes","Stable","Referral","New","Very important","Project","First deal","Won",3.15
+"Product I","Seller 1","Small","No","Yes","Growth","Joint past","Current","Average important","Maintenance","Normal","Won",2.1
+"Product D","Seller 2","Big","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Normal","Won",1.05
+"Product C","Seller 12","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",2.1
+"Product E","Seller 1","Small","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",4.2
+"Product B","Seller 1","Small","Unknown","Yes","Stable","Event","New","Average important","Project","First deal","Won",3.15
+"Product A","Seller 4","Big","No","No","Stable","Joint past","Current","Average important","Project","Strategic account","Won",3.15
+"Product A","Seller 4","Big","No","No","Stable","Joint past","Current","Average important","Project","Strategic account","Won",3.15
+"Product D","Seller 2","Big","Yes","Yes","Stable","Online form","New","Average important","Solution","First deal","Lost",3.15
+"Product B","Seller 8","Big","No","Yes","Stable","Joint past","Current","Unimportant","Project","Strategic account","Won",5.25
+"Product D","Seller 10","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",6.3
+"Product C","Seller 1","Mid","No","No","Stable","Joint past","Current","Average important","Project","Normal","Won",5.25
+"Product D","Seller 2","Big","Yes","Yes","Unknown","Referral","New","Average important","Solution","First deal","Lost",2.1
+"Product C","Seller 9","Mid","No","No","Stable","Joint past","Current","Average important","Project","Normal","Won",2.1
+"Product N","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",2.1
+"Product D","Seller 2","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",4.2
+"Product C","Seller 10","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",2.1
+"Product F","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Normal","Won",3.15
+"Product D","Seller 2","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",3.15
+"Product B","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",1.05
+"Product B","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",3.15
+"Product B","Seller 8","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product C","Seller 1","Mid","Yes","Yes","Growth","Referral","New","Very important","Project","First deal","Lost",3.15
+"Product D","Seller 2","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",8.4
+"Product D","Seller 2","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",3.15
+"Product D","Seller 2","Mid","Yes","Yes","Growth","Direct mail","New","Unimportant","Solution","First deal","Lost",5.25
+"Product D","Seller 2","Mid","Yes","No","Stable","Direct mail","New","Unimportant","Solution","First deal","Lost",2.1
+"Product F","Seller 9","Mid","Yes","No","Stable","Joint past","New","Average important","Project","Normal","Lost",1.05
+"Product D","Seller 2","Big","Yes","Yes","Growth","Direct mail","New","Average important","Solution","First deal","Lost",3.15
+"Product D","Seller 2","Big","Yes","Yes","Stable","Direct mail","New","Unimportant","Solution","First deal","Lost",6.3
+"Product D","Seller 16","Mid","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",3.15
+"Product D","Seller 2","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",0
+"Product D","Seller 1","Big","Yes","Yes","Stable","Referral","New","Very important","Solution","Strategic account","Lost",1.05
+"Product F","Seller 1","Mid","No","Yes","Stable","Joint past","New","Average important","Project","Normal","Won",0
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Lost",1.05
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",5.25
+"Product A","Seller 4","Big","Yes","Yes","Stable","Media","New","Very important","Project","First deal","Lost",1.05
+"Product B","Seller 8","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",2.1
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",3.15
+"Product N","Seller 1","Mid","No","No","Growth","Joint past","Current","Unimportant","Project","Bad client","Won",3.15
+"Product A","Seller 1","Small","No","No","Stable","Joint past","Current","Average important","Project","Normal","Won",3.15
+"Product I","Seller 1","Small","No","Yes","Growth","Joint past","Current","Average important","Project","Normal","Won",6.3
+"Product F","Seller 1","Big","No","No","Stable","Joint past","Current","Average important","Project","Normal","Lost",6.3
+"Product C","Seller 9","Small","Unknown","No","Stable","Joint past","New","Unimportant","Project","First deal","Lost",3.15
+"Product D","Seller 10","Big","No","No","Stable","Joint past","Current","Average important","Solution","Normal","Won",3.15
+"Product A","Seller 11","Mid","Yes","Yes","Stable","Media","New","Very important","Project","Strategic account","Lost",3.15
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",5.25
+"Product D","Seller 2","Mid","Yes","Yes","Stable","Online form","New","Average important","Solution","First deal","Lost",4.2
+"Product C","Seller 12","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",1.05
+"Product F","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",1.05
+"Product A","Seller 1","Small","No","No","Stable","Joint past","Current","Average important","Project","Normal","Won",2.1
+"Product B","Seller 1","Mid","Yes","Yes","Stable","Referral","New","Average important","Project","First deal","Lost",3.15
+"Product C","Seller 1","Small","No","Yes","Growth","Media","New","Very important","Solution","Normal","Won",6.3
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",4.2
+"Product B","Seller 1","Big","No","No","Stable","Joint past","Current","Very important","Maintenance","Strategic account","Won",4.2
+"Product D","Seller 2","Mid","Yes","Yes","Stable","Unknown","New","Average important","Solution","Normal","Lost",7.35
+"Product B","Seller 1","Big","No","No","Growth","Joint past","Current","Very important","Maintenance","Strategic account","Won",1.05
+"Product B","Seller 1","Big","Yes","Yes","Growth","Joint past","Current","Very important","Project","Strategic account","Lost",1.05
+"Product D","Seller 2","Big","Unknown","Yes","Growth","Joint past","Current","Average important","Project","Normal","Lost",5.25
+"Product B","Seller 9","Mid","No","No","Stable","Unknown","New","Average important","Solution","Normal","Lost",2.1
+"Product D","Seller 10","Big","No","No","Stable","Joint past","Current","Average important","Solution","Normal","Won",1.05
+"Product C","Seller 1","Big","No","Yes","Stable","Event","New","Average important","Project","First deal","Won",1.05
+"Product P","Seller 13","Big","No","No","Growth","Joint past","Current","Average important","Maintenance","Normal","Won",3.15
+"Product D","Seller 10","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",6.3
+"Product A","Seller 14","Big","Yes","No","Growth","Joint past","Current","Very important","Project","Strategic account","Lost",3.15
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Strategic account","Lost",1.05
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Consulting","Strategic account","Lost",3.15
+"Product K","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",0
+"Product C","Seller 14","Mid","No","Yes","Stable","Joint past","New","Average important","Consulting","Normal","Won",4.2
+"Product I","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",2.1
+"Product D","Seller 2","Small","Unknown","Yes","Unknown","Unknown","New","Unimportant","Solution","Normal","Lost",3.15
+"Product D","Seller 2","Small","Unknown","Yes","Unknown","Unknown","New","Unimportant","Solution","Normal","Lost",4.2
+"Product B","Seller 9","Mid","Yes","Yes","Stable","Unknown","New","Very important","Project","Normal","Lost",3.15
+"Product E","Seller 1","Small","No","Yes","Growth","Referral","New","Average important","Project","First deal","Lost",3.15
+"Product A","Seller 1","Big","Yes","Yes","Stable","Joint past","New","Very important","Project","Bad client","Lost",3.15
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Maintenance","Strategic account","Won",4.2
+"Product D","Seller 2","Mid","Yes","Yes","Stable","Media","New","Average important","Solution","Normal","Lost",2.1
+"Product B","Seller 9","Small","Unknown","Yes","Stable","Media","New","Average important","Project","Normal","Lost",4.2
+"Product A","Seller 3","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",0
+"Product D","Seller 10","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",4.2
+"Product A","Seller 9","Big","No","Yes","Stable","Referral","New","Average important","Solution","Normal","Won",2.1
+"Product D","Seller 10","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",2.1
+"Product C","Seller 14","Big","No","No","Growth","Joint past","Current","Average important","Consulting","Strategic account","Won",4.2
+"Product C","Seller 14","Big","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Strategic account","Won",2.1
+"Product C","Seller 14","Big","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Normal","Won",5.25
+"Product A","Seller 3","Big","Yes","No","Stable","Referral","Past","Average important","Project","Normal","Lost",4.2
+"Product N","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",2.1
+"Product F","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",6.3
+"Product B","Seller 1","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",2.1
+"Product I","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",1.05
+"Product B","Seller 1","Small","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Normal","Won",1.05
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",2.1
+"Product A","Seller 1","Small","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Normal","Won",2.1
+"Product D","Seller 1","Mid","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Normal","Won",5.25
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Strategic account","Won",4.2
+"Product B","Seller 8","Big","No","No","Growth","Joint past","Current","Average important","Project","Strategic account","Won",3.15
+"Product B","Seller 9","Small","Yes","Yes","Stable","Media","New","Unimportant","Project","Normal","Lost",2.1
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",5.25
+"Product F","Seller 4","Big","No","No","Stable","Joint past","Current","Average important","Maintenance","Strategic account","Won",2.1
+"Product B","Seller 1","Mid","Yes","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",6.3
+"Product B","Seller 8","Big","No","Yes","Stable","Joint past","Current","Very important","Maintenance","Strategic account","Lost",3.15
+"Product B","Seller 8","Big","Yes","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Lost",4.2
+"Product A","Seller 4","Big","No","No","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product A","Seller 3","Big","No","Yes","Stable","Joint past","Current","Very important","Maintenance","Strategic account","Won",1.05
+"Product A","Seller 3","Big","No","Yes","Stable","Joint past","Current","Very important","Maintenance","Strategic account","Won",1.05
+"Product A","Seller 6","Mid","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",5.25
+"Product A","Seller 3","Big","No","No","Stable","Joint past","Current","Very important","Maintenance","Strategic account","Won",2.1
+"Product D","Seller 2","Mid","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",1.05
+"Product D","Seller 2","Big","Yes","Yes","Stable","Joint past","New","Very important","Solution","First deal","Lost",2.1
+"Product C","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",5.25
+"Product D","Seller 2","Small","Yes","Yes","Stable","Media","New","Average important","Solution","Normal","Lost",3.15
+"Product D","Seller 2","Small","Yes","Yes","Stable","Joint past","New","Average important","Solution","Normal","Lost",4.2
+"Product C","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",5.25
+"Product D","Seller 2","Mid","Yes","Yes","Stable","Media","New","Average important","Solution","Normal","Lost",2.1
+"Product B","Seller 1","Big","No","Yes","Growth","Joint past","Current","Very important","Solution","Strategic account","Won",1.05
+"Product B","Seller 1","Mid","No","Yes","Stable","Joint past","New","Average important","Solution","Normal","Lost",4.2
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Lost",4.2
+"Product A","Seller 5","Small","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",2.1
+"Product B","Seller 9","Mid","Yes","Yes","Stable","Referral","New","Average important","Project","Normal","Won",5.25
+"Product B","Seller 11","Big","Yes","Yes","Unknown","Referral","New","Average important","Project","Normal","Lost",4.2
+"Product A","Seller 11","Mid","Yes","Yes","Stable","Joint past","Current","Average important","Project","Normal","Lost",7.35
+"Product I","Seller 1","Mid","Yes","Yes","Stable","Joint past","New","Very important","Project","Strategic account","Won",2.1
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",4.2
+"Product D","Seller 2","Mid","Yes","Yes","Stable","Referral","New","Average important","Solution","Strategic account","Lost",1.05
+"Product A","Seller 5","Small","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",5.25
+"Product A","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Very important","Project","Strategic account","Lost",0
+"Product A","Seller 6","Mid","No","No","Stable","Joint past","Current","Average important","Project","Strategic account","Won",1.05
+"Product A","Seller 6","Mid","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",4.2
+"Product A","Seller 1","Mid","No","Yes","Growth","Joint past","Current","Average important","Project","Strategic account","Won",5.25
+"Product D","Seller 2","Big","Yes","Yes","Stable","Direct mail","New","Average important","Solution","First deal","Lost",2.1
+"Product A","Seller 14","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",6.3
+"Product D","Seller 2","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",2.1
+"Product D","Seller 2","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",3.15
+"Product I","Seller 1","Big","Yes","Yes","Growth","Joint past","Current","Very important","Project","Strategic account","Won",2.1
+"Product D","Seller 2","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",2.1
+"Product D","Seller 2","Mid","Yes","Yes","Stable","Media","New","Average important","Solution","Normal","Lost",1.05
+"Product H","Seller 9","Small","Yes","Yes","Stable","Media","New","Average important","Project","Normal","Lost",1.05
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Solution","Strategic account","Won",3.15
+"Product D","Seller 2","Mid","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",1.05
+"Product C","Seller 1","Big","No","No","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",7.35
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product E","Seller 1","Big","Yes","No","Stable","Joint past","Current","Average important","Project","Strategic account","Lost",6.3
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",2.1
+"Product B","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",3.15
+"Product K","Seller 9","Big","Yes","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",1.05
+"Product D","Seller 2","Big","No","Yes","Stable","Joint past","Current","Unimportant","Solution","Normal","Lost",4.2
+"Product D","Seller 2","Small","Yes","Yes","Stable","Media","New","Average important","Solution","Normal","Lost",2.1
+"Product D","Seller 2","Big","Yes","Yes","Stable","Referral","New","Average important","Solution","Normal","Lost",3.15
+"Product D","Seller 2","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",6.3
+"Product A","Seller 9","Mid","No","Yes","Growth","Joint past","Current","Very important","Project","Strategic account","Won",1.05
+"Product C","Seller 14","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",2.1
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",2.1
+"Product D","Seller 2","Mid","Unknown","No","Unknown","Media","New","Average important","Solution","Normal","Lost",5.25
+"Product D","Seller 2","Big","Yes","Yes","Stable","Joint past","Current","Average important","Project","Normal","Lost",2.1
+"Product B","Seller 9","Big","Yes","Yes","Stable","Media","New","Average important","Project","Normal","Lost",2.1
+"Product N","Seller 9","Small","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",3.15
+"Product D","Seller 2","Mid","Yes","Yes","Stable","Joint past","New","Average important","Solution","Normal","Won",5.25
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",1.05
+"Product F","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",5.25
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",1.05
+"Product B","Seller 9","Small","Yes","Yes","Stable","Media","New","Unimportant","Project","Normal","Lost",2.1
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",3.15
+"Product B","Seller 1","Mid","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",6.3
+"Product G","Seller 1","Big","Yes","Yes","Stable","Referral","New","Very important","Project","Strategic account","Lost",2.1
+"Product B","Seller 1","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",4.2
+"Product D","Seller 2","Mid","Yes","Yes","Growth","Direct mail","New","Unimportant","Solution","First deal","Lost",0
+"Product D","Seller 10","Big","Yes","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",2.1
+"Product C","Seller 9","Small","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",3.15
+"Product B","Seller 9","Mid","No","Yes","Stable","Joint past","New","Unimportant","Project","Normal","Lost",0
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Strategic account","Won",1.05
+"Product A","Seller 3","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product F","Seller 4","Mid","Unknown","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",2.1
+"Product F","Seller 1","Mid","No","No","Stable","Joint past","Current","Average important","Project","Normal","Lost",1.05
+"Product F","Seller 9","Big","Yes","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",4.2
+"Product J","Seller 1","Big","Yes","Yes","Stable","Joint past","New","Average important","Solution","Normal","Lost",3.15
+"Product I","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",7.35
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",2.1
+"Product D","Seller 2","Mid","Yes","Yes","Stable","Referral","New","Average important","Solution","Normal","Lost",1.05
+"Product A","Seller 14","Big","Yes","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",4.2
+"Product D","Seller 2","Mid","Yes","Yes","Slow down","Referral","New","Unimportant","Solution","Normal","Lost",3.15
+"Product J","Seller 9","Small","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",4.2
+"Product D","Seller 2","Small","Yes","Yes","Stable","Referral","New","Average important","Solution","Normal","Lost",2.1
+"Product B","Seller 9","Mid","Yes","Yes","Stable","Media","New","Average important","Project","Normal","Lost",5.25
+"Product B","Seller 9","Small","Yes","No","Stable","Joint past","Current","Average important","Project","Normal","Lost",5.25
+"Product E","Seller 9","Mid","Yes","No","Stable","Joint past","New","Unimportant","Project","Normal","Lost",2.1
+"Product D","Seller 2","Mid","Yes","Yes","Unknown","Online form","New","Unimportant","Solution","First deal","Lost",0
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Lost",4.2
+"Product D","Seller 2","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",5.25
+"Product B","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Won",2.1
+"Product D","Seller 1","Big","Yes","Yes","Stable","Joint past","New","Very important","Solution","Strategic account","Lost",6.3
+"Product D","Seller 2","Big","Yes","Yes","Stable","Media","New","Average important","Solution","Normal","Lost",5.25
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Solution","Strategic account","Lost",5.25
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Strategic account","Won",3.15
+"Product D","Seller 1","Small","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",4.2
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",2.1
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",2.1
+"Product B","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Lost",4.2
+"Product B","Seller 9","Mid","Yes","Yes","Stable","Referral","New","Average important","Project","Normal","Won",1.05
+"Product N","Seller 9","Small","Yes","Yes","Stable","Media","New","Average important","Project","Normal","Lost",1.05
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",1.05
+"Product D","Seller 2","Big","No","Yes","Stable","Referral","New","Average important","Solution","Normal","Lost",2.1
+"Product C","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",1.05
+"Product B","Seller 1","Mid","No","No","Stable","Joint past","Current","Average important","Project","Normal","Won",0
+"Product D","Seller 10","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",6.3
+"Product B","Seller 8","Big","Yes","Yes","Stable","Joint past","Current","Very important","Maintenance","Strategic account","Won",4.2
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",1.05
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",1.05
+"Product B","Seller 1","Big","Yes","Yes","Stable","Referral","New","Average important","Project","Normal","Won",2.1
+"Product B","Seller 1","Big","Yes","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",2.1
+"Product A","Seller 11","Mid","Yes","Yes","Stable","Joint past","Current","Average important","Project","Normal","Lost",4.2
+"Product A","Seller 3","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",4.2
+"Product D","Seller 2","Mid","Yes","Yes","Stable","Referral","New","Average important","Solution","Normal","Lost",2.1
+"Product G","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Lost",4.2
+"Product B","Seller 1","Big","Yes","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",2.1
+"Product B","Seller 1","Small","No","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",3.15
+"Product A","Seller 3","Big","Yes","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",3.15
+"Product D","Seller 9","Mid","No","Yes","Stable","Joint past","New","Average important","Solution","Normal","Lost",3.15
+"Product C","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",3.15
+"Product D","Seller 2","Mid","No","Yes","Stable","Media","New","Average important","Solution","Normal","Lost",2.1
+"Product B","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",2.1
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",3.15
+"Product D","Seller 1","Big","No","Yes","Stable","Referral","New","Average important","Solution","Normal","Lost",2.1
+"Product N","Seller 9","Small","Yes","Yes","Stable","Media","New","Average important","Project","Normal","Lost",2.1
+"Product A","Seller 1","Mid","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",0
+"Product A","Seller 1","Mid","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",2.1
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Lost",3.15
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Lost",2.1
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Lost",4.2
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Lost",1.05
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Lost",5.25
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Lost",2.1
+"Product L","Seller 9","Mid","No","No","Stable","Joint past","New","Average important","Project","Normal","Lost",6.3
+"Product B","Seller 1","Small","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Normal","Won",4.2
+"Product E","Seller 9","Small","No","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",1.05
+"Product B","Seller 9","Small","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",3.15
+"Product D","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",2.1
+"Product A","Seller 9","Mid","No","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",3.15
+"Product J","Seller 1","Mid","No","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",3.15
+"Product A","Seller 1","Mid","Yes","Yes","Stable","Referral","New","Very important","Project","Strategic account","Lost",3.15
+"Product A","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",1.05
+"Product B","Seller 9","Small","Yes","Yes","Stable","Referral","New","Average important","Project","Normal","Won",4.2
+"Product E","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",6.3
+"Product B","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Won",1.05
+"Product F","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",2.1
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",4.2
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Strategic account","Won",1.05
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Consulting","Strategic account","Won",4.2
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Very important","Maintenance","Strategic account","Won",4.2
+"Product J","Seller 9","Mid","Yes","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",1.05
+"Product H","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",3.15
+"Product H","Seller 1","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",1.05
+"Product D","Seller 1","Big","Yes","Yes","Stable","Referral","New","Very important","Solution","Normal","Lost",2.1
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",2.1
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",3.15
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",3.15
+"Product E","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",2.1
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",1.05
+"Product H","Seller 9","Big","Yes","No","Stable","Referral","New","Average important","Project","Normal","Lost",5.25
+"Product H","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",0
+"Product H","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",2.1
+"Product H","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",4.2
+"Product A","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",2.1
+"Product H","Seller 9","Small","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",1.05
+"Product E","Seller 9","Mid","No","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",0
+"Product G","Seller 7","Big","Yes","Yes","Stable","Referral","New","Very important","Project","Strategic account","Lost",5.25
+"Product H","Seller 1","Mid","No","Yes","Stable","Referral","Current","Average important","Project","Normal","Won",1.05
+"Product D","Seller 10","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",1.05
+"Product H","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",2.1
+"Product H","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",8.4
+"Product H","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",0
+"Product F","Seller 4","Big","Unknown","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",5.25
+"Product H","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",3.15
+"Product N","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Lost",2.1
+"Product D","Seller 9","Big","Yes","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",1.05
+"Product B","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Won",1.05
+"Product H","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",2.1
+"Product F","Seller 4","Mid","No","Yes","Stable","Referral","New","Average important","Project","Normal","Won",5.25
+"Product F","Seller 4","Mid","No","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",4.2
+"Product F","Seller 4","Mid","No","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",2.1
+"Product H","Seller 9","Mid","Yes","Yes","Stable","Referral","New","Average important","Solution","Normal","Lost",3.15
+"Product H","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Strategic account","Won",3.15
+"Product H","Seller 4","Big","No","Yes","Stable","Referral","New","Average important","Project","Normal","Won",2.1
+"Product B","Seller 1","Mid","Yes","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",1.05
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",1.05
+"Product D","Seller 2","Mid","Yes","Yes","Unknown","Direct mail","New","Average important","Solution","First deal","Lost",4.2
+"Product H","Seller 1","Big","No","Yes","Stable","Referral","New","Very important","Project","Strategic account","Lost",2.1
+"Product D","Seller 2","Mid","Yes","Yes","Unknown","Direct mail","New","Unimportant","Solution","First deal","Lost",0
+"Product C","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Average important","Consulting","Normal","Lost",3.15
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",3.15
+"Product B","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Strategic account","Won",2.1
+"Product D","Seller 2","Mid","No","Yes","Unknown","Joint past","Current","Average important","Project","Normal","Won",6.3
+"Product C","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Solution","Normal","Won",10.5
+"Product C","Seller 9","Big","Yes","Yes","Stable","Joint past","New","Average important","Solution","Normal","Lost",4.2
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",3.15
+"Product A","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",3.15
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product E","Seller 9","Mid","No","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",2.1
+"Product D","Seller 2","Mid","No","Yes","Unknown","Joint past","Current","Average important","Project","Normal","Won",4.2
+"Product B","Seller 15","Big","Yes","Yes","Stable","Joint past","Current","Very important","Project","First deal","Lost",4.2
+"Product A","Seller 3","Big","Yes","No","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",5.25
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",2.1
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Strategic account","Won",2.1
+"Product F","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",0
+"Product D","Seller 9","Big","Yes","Yes","Stable","Joint past","New","Average important","Solution","Normal","Lost",3.15
+"Product B","Seller 1","Big","No","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",3.15
+"Product H","Seller 3","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",2.1
+"Product C","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Solution","Normal","Won",2.1
+"Product C","Seller 9","Big","Yes","Yes","Stable","Media","New","Average important","Project","Normal","Lost",3.15
+"Product D","Seller 2","Mid","No","Yes","Unknown","Joint past","Current","Average important","Project","Normal","Won",6.3
+"Product H","Seller 3","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product D","Seller 2","Mid","Unknown","Yes","Unknown","Direct mail","New","Unimportant","Solution","First deal","Lost",4.2
+"Product B","Seller 9","Mid","Yes","Yes","Stable","Media","New","Unimportant","Project","Normal","Lost",2.1
+"Product D","Seller 1","Small","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",0
+"Product D","Seller 1","Small","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",4.2
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",1.05
+"Product B","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Unimportant","Project","Normal","Lost",3.15
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",7.35
+"Product D","Seller 2","Mid","Yes","Yes","Growth","Direct mail","New","Average important","Solution","First deal","Lost",4.2
+"Product B","Seller 1","Small","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Normal","Won",2.1
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product A","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Lost",3.15
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",2.1
+"Product C","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product F","Seller 7","Big","No","No","Stable","Joint past","New","Average important","Project","First deal","Won",3.15
+"Product F","Seller 4","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product B","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",2.1
+"Product A","Seller 3","Big","No","No","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",1.05
+"Product C","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",3.15
+"Product C","Seller 7","Big","Yes","Yes","Stable","Other","New","Average important","Project","Normal","Lost",0
+"Product D","Seller 1","Big","Yes","Yes","Stable","Media","New","Very important","Solution","First deal","Lost",6.3
+"Product D","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Solution","Normal","Lost",4.2
+"Product D","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",1.05
+"Product D","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",1.05
+"Product D","Seller 2","Small","Unknown","Yes","Unknown","Referral","New","Unimportant","Solution","First deal","Lost",5.25
+"Product A","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Lost",1.05
+"Product B","Seller 9","Big","Yes","Yes","Stable","Other","New","Very important","Project","Strategic account","Won",4.2
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",2.1
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",1.05
+"Product D","Seller 9","Mid","No","Yes","Stable","Joint past","New","Average important","Solution","Normal","Lost",7.35
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",2.1
+"Product B","Seller 9","Big","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",2.1
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product B","Seller 1","Small","No","Yes","Stable","Referral","New","Average important","Project","First deal","Lost",3.15
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",6.3
+"Product H","Seller 3","Big","No","Yes","Growth","Joint past","New","Average important","Consulting","Normal","Lost",3.15
+"Product B","Seller 9","Big","No","No","Stable","Joint past","Current","Average important","Project","Strategic account","Won",3.15
+"Product B","Seller 9","Mid","Unknown","Yes","Stable","Joint past","Current","Unimportant","Project","Normal","Lost",2.1
+"Product D","Seller 2","Mid","Yes","Yes","Unknown","Direct mail","New","Average important","Solution","First deal","Lost",7.35
+"Product D","Seller 1","Small","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",5.25
+"Product B","Seller 9","Mid","No","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",3.15
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product B","Seller 9","Big","No","No","Stable","Joint past","New","Average important","Project","Normal","Lost",5.25
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",2.1
+"Product A","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Won",5.25
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",4.2
+"Product H","Seller 3","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",3.15
+"Product D","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Solution","Normal","Lost",6.3
+"Product C","Seller 9","Mid","Unknown","Yes","Stable","Unknown","New","Average important","Project","Normal","Lost",2.1
+"Product F","Seller 4","Big","No","No","Stable","Joint past","New","Average important","Project","First deal","Won",1.05
+"Product C","Seller 1","Big","No","Yes","Growth","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product B","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",2.1
+"Product B","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",4.2
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",5.25
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product B","Seller 1","Big","No","Yes","Stable","Referral","New","Very important","Project","Strategic account","Won",1.05
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",6.3
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",4.2
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",5.25
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Lost",3.15
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",2.1
+"Product C","Seller 9","Small","No","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",8.4
+"Product D","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",3.15
+"Product A","Seller 9","Mid","No","Yes","Stable","Joint past","Current","Average important","Project","Normal","Lost",4.2
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",6.3
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Maintenance","Strategic account","Lost",2.1
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",5.25
+"Product D","Seller 2","Mid","Yes","Yes","Stable","Joint past","Past","Average important","Solution","First deal","Won",3.15
+"Product D","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",2.1
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",5.25
+"Product D","Seller 2","Mid","No","Yes","Growth","Joint past","Past","Average important","Solution","Normal","Lost",6.3
+"Product B","Seller 9","Big","No","No","Stable","Joint past","Current","Average important","Project","Strategic account","Won",0
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",3.15
+"Product D","Seller 1","Small","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",6.3
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",7.35
+"Product B","Seller 9","Mid","Unknown","Yes","Stable","Joint past","Current","Unimportant","Project","Normal","Won",5.25
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Maintenance","Strategic account","Won",2.1
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Strategic account","Won",3.15
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",2.1
+"Product B","Seller 9","Big","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",1.05
+"Product D","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",2.1
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",1.05
+"Product E","Seller 9","Small","No","Yes","Stable","Unknown","New","Average important","Project","Normal","Won",3.15
+"Product E","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",2.1
+"Product C","Seller 9","Mid","No","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",3.15
+"Product A","Seller 9","Mid","Unknown","Yes","Stable","Joint past","Current","Unimportant","Project","Normal","Lost",3.15
+"Product A","Seller 17","Big","Yes","Yes","Stable","Joint past","Current","Average important","Project","Normal","Lost",3.15
+"Product B","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",4.2
+"Product D","Seller 10","Mid","No","Yes","Slow down","Joint past","Current","Average important","Maintenance","Normal","Won",2.1
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",5.25
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Strategic account","Won",4.2
+"Product D","Seller 2","Mid","No","Yes","Stable","Joint past","Past","Unimportant","Solution","Normal","Lost",2.1
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",4.2
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",1.05
+"Product B","Seller 9","Big","No","No","Stable","Joint past","Current","Average important","Project","Strategic account","Won",0
+"Product B","Seller 14","Big","Yes","Yes","Stable","Joint past","New","Average important","Project","First deal","Lost",7.35
+"Product D","Seller 9","Mid","Yes","Yes","Stable","Unknown","New","Average important","Solution","Normal","Lost",5.25
+"Product C","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Won",0
+"Product F","Seller 1","Big","Yes","Yes","Stable","Referral","New","Very important","Project","Strategic account","Won",1.05
+"Product B","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",2.1
+"Product C","Seller 1","Mid","No","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",6.3
+"Product D","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Solution","Normal","Lost",2.1
+"Product B","Seller 9","Mid","Unknown","Yes","Stable","Joint past","Current","Unimportant","Project","Normal","Won",3.15
+"Product B","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",2.1
+"Product B","Seller 3","Big","Yes","Yes","Stable","Joint past","Current","Average important","Project","Strategic account","Lost",3.15
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product D","Seller 9","Big","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",0
+"Product A","Seller 3","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",0
+"Product A","Seller 3","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",2.1
+"Product A","Seller 9","Mid","Unknown","Yes","Stable","Referral","New","Average important","Project","Normal","Lost",1.05
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",2.1
+"Product D","Seller 1","Big","Yes","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Lost",2.1
+"Product N","Seller 9","Mid","Yes","Yes","Stable","Media","New","Average important","Project","Normal","Lost",3.15
+"Product E","Seller 9","Small","No","Yes","Stable","Unknown","Current","Average important","Project","Normal","Lost",2.1
+"Product D","Seller 1","Mid","No","Yes","Stable","Joint past","Current","Average important","Maintenance","Normal","Won",4.2
+"Product B","Seller 9","Mid","Unknown","Yes","Stable","Joint past","Current","Unimportant","Project","Normal","Won",1.05
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Maintenance","Strategic account","Lost",2.1
+"Product A","Seller 9","Big","No","No","Stable","Joint past","Current","Average important","Project","Strategic account","Lost",1.05
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Lost",2.1
+"Product D","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",5.25
+"Product D","Seller 2","Big","Yes","Yes","Stable","Direct mail","New","Average important","Solution","First deal","Lost",3.15
+"Product D","Seller 1","Small","No","Yes","Stable","Joint past","Current","Average important","Solution","Normal","Won",3.15
+"Product C","Seller 9","Mid","No","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",2.1
+"Product A","Seller 9","Mid","Yes","Yes","Stable","Joint past","New","Average important","Project","Normal","Lost",1.05
+"Product A","Seller 1","Big","No","Yes","Stable","Joint past","Current","Very important","Project","Strategic account","Won",3.15
+"Product D","Seller 2","Mid","Yes","Yes","Stable","Referral","Current","Very important","Solution","Strategic account","Lost",1.05
+"Product D","Seller 2","Mid","Yes","Yes","Stable","Direct mail","New","Average important","Solution","First deal","Lost",4.2
+"Product D","Seller 2","Mid","Yes","Yes","Growth","Direct mail","New","Average important","Solution","First deal","Lost",1.05
+"Product D","Seller 2","Big","Yes","Yes","Stable","Direct mail","New","Average important","Solution","First deal","Lost",2.1
+"Product D","Seller 2","Mid","Yes","Yes","Growth","Direct mail","New","Average important","Solution","First deal","Lost",3.15
+"Product D","Seller 1","Mid","Yes","Yes","Stable","Referral","New","Average important","Solution","First deal","Lost",4.2

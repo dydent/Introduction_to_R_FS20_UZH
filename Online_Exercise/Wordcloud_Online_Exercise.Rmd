@@ -1,0 +1,80 @@
+---
+title: "Online Exercise - R Notebook"
+output:
+  html_notebook: default
+  html_document: default
+  pdf_document: default
+---
+
+## Online Exercise - Topic 3: Wordcloud to analyze tweets ##
+### Introduction to R FS 20 UZH ###
+### Tobias Boner 17-707-878 ###
+
+In this R notebook we will provide a step by step guide to create a wordcloud. Therefore, we use the wordcloud() function to analyze tweets (corona_tweets.csv)
+
+This work will adress the following points:
+
+1. What is the reason for plotting a word cloud representing Tweets?
+2. What are the steps in plotting Tweets?
+    + List and explain the specific steps to prepare the input data.
+    + Explain your reasoning for all steps, e.g. subsetting the data, creating new variables, manipulating data structures.
+    + Which variables do you include and why?
+    + Make sure the graph makes sense and is visually appealing (i.e. remove irrelevant words, coloring of important words).
+3. Show and interpret the word cloud you created.
+4. Summary
+
+
+
+
+#### **Step 1:** ####
+##### Load and (install --> only needed once) all nececessary packages #####
+
+```{r}
+
+### load packages ###
+library(data.table)
+library(lubridate)
+library(wordcloud)
+library(RColorBrewer)
+library(wordcloud2)
+
+# shows you all installed packages
+installed.packages()
+
+```
+
+#### **Step 2:** ####
+#####load the data that entails the tweets ######
+```{r}
+data <- fread("corona_tweets.csv")
+```
+
+#### **Step 3:** ####
+#### Inspect the data and its properties ####
+```{r}
+# inspect properties of data
+str(data)
+
+# print the data
+data
+
+# show column names of data
+colnames(data)
+
+# get first column of data
+data[, "V1"]
+data[, 1]
+
+# get more columns of data
+data[, "text"]
+data[,4]
+data[,16]
+
+# get rows of data
+data[1,]
+data[1:10,]
+
+
+
+```
+

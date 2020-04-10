@@ -15,23 +15,23 @@
 
 
 # Install and load required packages ####
-#install.packages("devtools") 
+install.packages("devtools")
 library("devtools") 
 #devtools::install_github("rstudio/leaflet") 
-#install.packages("leaflet")
+install.packages("leaflet")
 library("leaflet") 
-#install.packages("quantmod") 
+install.packages("quantmod")
 library("quantmod")
-#install.packages("TTR") 
+install.packages("TTR")
 library("TTR")
-#install.packages("dygraphs") 
+install.packages("dygraphs")
 library("dygraphs")
-#install.packages("ggvis")
+install.packages("ggvis")
 library("ggvis")
 
 ## Part 1:Plot all Starbucks locations using OpenStreetMap ####
 download.file("https://opendata.socrata.com/api/views/ddym-zvjk/rows.csv?accessType=DOWNLOAD", "starbucks.csv", method = "curl")
-starbucks <- read.csv("starbucks.csv") 
+starbucks <- read.csv("Day3/starbucks.csv") 
 
 leaflet() %>% addTiles() %>% setView(-84.3847, 33.7613, zoom = 16) %>%
   addMarkers(data = starbucks, lat = ~ Latitude, lng = ~ Longitude, popup = starbucks$Name)
